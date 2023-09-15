@@ -1,2 +1,2 @@
 # TODO-List
-This creates a list of activities using Angular CLI
+This project creates a list of activities using Angular CLI
